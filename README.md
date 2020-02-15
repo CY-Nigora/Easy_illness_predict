@@ -12,3 +12,4 @@ The rule of parameters' name making is reffers to "illness_model.m"
 短期预测模型见 illness_statistical.m
 长期预测模型(运行部分)见 test.m
 长期预测模型主函数部分见 illness_model.m，内含参数对应意义解释
+illness.xlsx 为数据例子
